@@ -1,6 +1,8 @@
 # health-project
+You will find my project on the master part of this.
 I developed this website using HTML, CSS, PHP, MySql Database, jQuery, Ajax, Bootstrap 4, Parsley.js, jQuery, DataTable Plugin, Bootstrap DatePicker Plugin.
-https://trisa7.github.io/health-project/
+
+https://cure-and-sure.000webhostapp.com/
 
 Here's the details to create the database and the tables.
 Database: `doctor_appointment`
